@@ -1,4 +1,4 @@
-### Lucasss Mods War 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+###   <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="center">
 <a href="https://github.com/LucasssMODS"><img src="https://raw.githubusercontent.com/LucasssMODS/Luc4rio-Bot/main/assets/menuimg.jpg"></a>
 </p>
@@ -70,93 +70,64 @@ Quando O Bot Come�ar A Cair:
 
 | VIRAR USU�RIO | OK
 | :---------------------------------------------: | :-----------: |
-|  Registrar|✅|
+|  Registrar||
 
 |  PARA CRIA��O |                                           OK |
 | :---------------------------------------------: | :-----------: |
-| Imagem Em Figurinha|✅|
-| Gif Em Figurinha|✅|
-| Fugurinha Em Imagem|✅|
-| V�deo Em �udio|✅|
-| Plaquinhas Maker|✅|
+| Imagem Em Figurinha||
+| Gif Em Figurinha||
+| Fugurinha Em Imagem||
+| V�deo Em �udio||
+| Plaquinhas Maker||
 
 | DOWNLOAD 1 | OK |
 | :-----------------: | :-------: |
-| Busca �udio No Youtube|✅|
-| Busca V�deo No Youtube|✅|
-| Busca Letra De M�sica|✅|
-| Busca Perfil No Github|✅|
-| Busca Imagem No Pinterest|✅|
+| Busca �udio No Youtube||
+| Busca V�deo No Youtube||
+| Busca Letra De M�sica||
+| Busca Perfil No Github||
+| Busca Imagem No Pinterest||
 
 | MEMES | OK |
 | :-----------------: | :-------: |
-| Busca Imagens De Memes BR|✅|
-| Busca Imagens De Memes Gringos|✅|
+| Busca Imagens De Memes BR||
+| Busca Imagens De Memes Gringos||
 
 | PARA GRUPOS | OK |
 | :-----------------: | :-------: |
-| Modo Antilinks|✅|
-| Modo Antiracismo|✅|
-| Modo Antifakes|✅|
-| Modo Bemvindos|✅|
-| Abrir Grupos|✅|
-| Fechar Grupos|✅|
-| Link Do Grupo|✅|
-| Info Do Grupo|✅|
-| Promover Membros|✅|
-| Rebaixar Membros|✅|
-| Citar Membros|✅|
-| Marcar Membros|✅|
-| Adicionar Membros|✅|
-| Remover Membro|✅|
-| Mostra Todos Os Admins|✅|
-| Tira O Bot Do Seu Grupo|✅|
-| Mosta O Criador Do Grupo|✅|
+| Modo Antilinks||
+| Modo Antiracismo||
+| Modo Antifakes||
+| Modo Bemvindos||
+| Abrir Grupos||
+| Fechar Grupos||
+| Link Do Grupo||
+| Info Do Grupo||
+| Promover Membros||
+| Rebaixar Membros||
+| Citar Membros||
+| Marcar Membros||
+| Adicionar Membros||
+| Remover Membro||
+| Mostra Todos Os Admins||
+| Tira O Bot Do Seu Grupo||
+| Mosta O Criador Do Grupo||
 
 | INFORMATIVO | OK |
 | :-----------------: | :-------: |
-| Lista De Idiomas|✅|
-| Consulta CEP|✅|
-| Consulta DDD|✅|
-| Consulta TEL|✅|
-| Covid Mundial|✅|
-| Covid Brasil|✅|
+| Lista De Idiomas||
+| Consulta CEP||
+| Consulta DDD||
+| Consulta TEL||
+| Covid Mundial||
+| Covid Brasil||
 
-| 18+ | OK |
+ TESTE O BOT | OK |
 | :-----------------: | :-------: |
-| Random Hentai|✅|
-| NSFW Neko|✅|
-| NSFW Blowjob |✅|
-| NSFW Loli|✅|
-| NSFW Anime|✅|
-| Asupan|✅|
-
-| CRIADOR | OK |
-| :-----------------: | :-------: |
-| Add bucin|✅|
-| Set pp bot|✅|
-| Set Limit Harian|✅|
-| Set Limit Member Group|✅|
-| Set Reply Chat|✅|
-| add premium |✅|
-| Banned Member|✅|
-| Unbanned Member|✅|
-| Block Member|✅|
-| Unblock Member|✅|
-| remove premium |✅|
-| Set Prefix|✅|
-| Block Member|✅|
-| Broadcast|✅|
-| Group Broadcast|✅|
-| Clear All Chat|✅|
-| Bott aktif/nonaktif|✅|
-
- TESTAR O BOT | OK |
-| :-----------------: | :-------: |
-| BotInfo|✅|
-| Usu�rios list|✅|
-| Banidos list|✅|
-| Bloquiados list|✅|
+| BotInfo||
+| Usu�rios list||
+| Banidos list||
+| Bloquiados list||
 
 
 ## Nota
