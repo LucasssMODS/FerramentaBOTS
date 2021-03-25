@@ -1,6 +1,6 @@
-###   <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+### Lucasss Mods War<br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="center">
-<a href="https://github.com/LucasssMODS"><img src="https://raw.githubusercontent.com/LucasssMODS/Luc4rio-Bot/main/assets/menuimg.jpg"></a>
+<a href="https://github.com/LucasssMODS"><img src="https://i.ibb.co/NWJtdvq/Pics-Art-03-14-03-11-03.jpg"></a>
 </p>
 <br>
 
@@ -70,64 +70,64 @@ Quando O Bot Começar A Cair:
 
 | VIRAR USUÁRIO | OK
 | :---------------------------------------------: | :-----------: |
-|  Registrar||
+|  Registrar||
 
 |  PARA CRIAÇÃO |                                           OK |
 | :---------------------------------------------: | :-----------: |
-| Imagem Em Figurinha||
-| Gif Em Figurinha||
-| Fugurinha Em Imagem||
-| Vídeo Em Áudio||
-| Plaquinhas Maker||
+| Imagem Em Figurinha||
+| Gif Em Figurinha||
+| Fugurinha Em Imagem||
+| Vídeo Em Áudio||
+| Plaquinhas Maker||
 
 | DOWNLOAD 1 | OK |
 | :-----------------: | :-------: |
-| Busca Áudio No Youtube||
-| Busca Vídeo No Youtube||
-| Busca Letra De Música||
-| Busca Perfil No Github||
-| Busca Imagem No Pinterest||
+| Busca Áudio No Youtube||
+| Busca Vídeo No Youtube||
+| Busca Letra De Música||
+| Busca Perfil No Github||
+| Busca Imagem No Pinterest||
 
 | MEMES | OK |
 | :-----------------: | :-------: |
-| Busca Imagens De Memes BR||
-| Busca Imagens De Memes Gringos||
+| Busca Imagens De Memes BR||
+| Busca Imagens De Memes Gringos||
 
 | PARA GRUPOS | OK |
 | :-----------------: | :-------: |
-| Modo Antilinks||
-| Modo Antiracismo||
-| Modo Antifakes||
-| Modo Bemvindos||
-| Abrir Grupos||
-| Fechar Grupos||
-| Link Do Grupo||
-| Info Do Grupo||
-| Promover Membros||
-| Rebaixar Membros||
-| Citar Membros||
-| Marcar Membros||
-| Adicionar Membros||
-| Remover Membro||
-| Mostra Todos Os Admins||
-| Tira O Bot Do Seu Grupo||
-| Mosta O Criador Do Grupo||
+| Modo Antilinks||
+| Modo Antiracismo||
+| Modo Antifakes||
+| Modo Bemvindos||
+| Abrir Grupos||
+| Fechar Grupos||
+| Link Do Grupo||
+| Info Do Grupo||
+| Promover Membros||
+| Rebaixar Membros||
+| Citar Membros||
+| Marcar Membros||
+| Adicionar Membros||
+| Remover Membro||
+| Mostra Todos Os Admins||
+| Tira O Bot Do Seu Grupo||
+| Mosta O Criador Do Grupo||
 
 | INFORMATIVO | OK |
 | :-----------------: | :-------: |
-| Lista De Idiomas||
-| Consulta CEP||
-| Consulta DDD||
-| Consulta TEL||
-| Covid Mundial||
-| Covid Brasil||
+| Lista De Idiomas||
+| Consulta CEP||
+| Consulta DDD||
+| Consulta TEL||
+| Covid Mundial||
+| Covid Brasil||
 
  TESTE O BOT | OK |
 | :-----------------: | :-------: |
-| BotInfo||
-| Usuários list||
-| Banidos list||
-| Bloquiados list||
+| BotInfo||
+| Usuários list||
+| Banidos list||
+| Bloquiados list||
 
 
 ## Nota
